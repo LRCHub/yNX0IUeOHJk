@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "セイム・ディレクション",
+  "base_artist": "Hoobastank",
+  "createdAt": "2026-03-31T06:46:29.255684Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Same Direction",
+      "artist": "Hoobastank",
+      "has_synced": false,
+      "path": "select/pl_01_Same_Direction_Hoobastank.txt"
+    }
+  ]
+}
